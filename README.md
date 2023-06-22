@@ -5,11 +5,11 @@ Para ejecutar el programa es necesario utilizar cualquier compilador de lenguaje
 
 Algunos ejemplos de valores de entrada y salida esperados son:
 
-1.- 
+1.- Opcion 1, 345 = 101011001
 
-2.- 
+2.- Opcion 2, 10100101 = 165
 
-3.- 
+3.- Opcion 3, Saliendo del programa...
 
 *Instrucciones de ejecucion del Programa*
 

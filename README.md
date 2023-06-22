@@ -15,7 +15,7 @@ Algunos ejemplos de valores de entrada y salida esperados son:
 
 1. Abre un entorno de desarrollo integrado (IDE) o un editor de texto donde puedas escribir código en C, como Code::Blocks, Dev-C++, Visual Studio Code, o cualquier otro de tu elección.
 
-2. Crea un nuevo archivo y copia el código del programa de modularización en ese archivo.
+2. Crea un nuevo archivo y copia el código del programa de numeros binarios-decimales en ese archivo.
 
 3, Guarda el archivo con una extensión .c, por ejemplo, "bin_dec.c".
 
